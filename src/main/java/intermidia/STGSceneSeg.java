@@ -218,7 +218,7 @@ public class STGSceneSeg
     	
     	sceneWriter.close();
     	//System.out.println("Segmentation process ended.");
-    	System.exit(0);
+    	//System.exit(0);
 		
 		
     }
